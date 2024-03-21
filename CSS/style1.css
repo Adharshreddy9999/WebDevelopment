@@ -1,0 +1,19 @@
+div{
+    height:200px;
+    border-width:2px;
+    border-style: ridge;
+    border-color: black;
+}
+h1{
+    height: 50px;
+    border-width:5px;
+    border-style:dotted;
+    border-color: blue;
+}
+button{
+    border: 5px;
+    border-style:solid;
+    border-radius:50px;
+    padding-left:20px;
+    padding-right:20px;
+}
